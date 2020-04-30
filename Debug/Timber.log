@@ -1,0 +1,15 @@
+﻿  Timber.cpp
+c:\users\vitow\documents\github\uw-repo\linkedin learning\cpp game development\projects\timber\timber\timber.cpp(91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\vitow\documents\github\uw-repo\linkedin learning\cpp game development\projects\timber\timber\timber.cpp(266): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\vitow\documents\github\uw-repo\linkedin learning\cpp game development\projects\timber\timber\timber.cpp(289): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\vitow\documents\github\uw-repo\linkedin learning\cpp game development\projects\timber\timber\timber.cpp(331): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\vitow\documents\github\uw-repo\linkedin learning\cpp game development\projects\timber\timber\timber.cpp(334): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\vitow\documents\github\uw-repo\linkedin learning\cpp game development\projects\timber\timber\timber.cpp(350): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\vitow\documents\github\uw-repo\linkedin learning\cpp game development\projects\timber\timber\timber.cpp(353): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\vitow\documents\github\uw-repo\linkedin learning\cpp game development\projects\timber\timber\timber.cpp(366): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\vitow\documents\github\uw-repo\linkedin learning\cpp game development\projects\timber\timber\timber.cpp(369): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\vitow\documents\github\uw-repo\linkedin learning\cpp game development\projects\timber\timber\timber.cpp(382): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\vitow\documents\github\uw-repo\linkedin learning\cpp game development\projects\timber\timber\timber.cpp(385): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\vitow\documents\github\uw-repo\linkedin learning\cpp game development\projects\timber\timber\timber.cpp(404): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Timber.vcxproj -> C:\Users\vitow\Documents\GitHub\uw-repo\linkedin learning\CPP Game Development\projects\Timber\Debug\Timber.exe
+  Timber.vcxproj -> C:\Users\vitow\Documents\GitHub\uw-repo\linkedin learning\CPP Game Development\projects\Timber\Debug\Timber.pdb (Full PDB)
